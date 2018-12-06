@@ -1,0 +1,10 @@
+C:\Users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab2\bin\Debug\myProjectLab2.exe.config
+C:\Users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab2\bin\Debug\myProjectLab2.exe
+C:\Users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab2\bin\Debug\myProjectLab2.pdb
+C:\Users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab2\bin\Debug\myProjectLab2.xml
+C:\Users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab2\obj\Debug\myProjectLab2.frmSecondForm.resources
+C:\Users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab2\obj\Debug\myProjectLab2.Resources.resources
+C:\Users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab2\obj\Debug\myProjectLab2.vbproj.GenerateResource.Cache
+C:\Users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab2\obj\Debug\myProjectLab2.exe
+C:\Users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab2\obj\Debug\myProjectLab2.xml
+C:\Users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab2\obj\Debug\myProjectLab2.pdb

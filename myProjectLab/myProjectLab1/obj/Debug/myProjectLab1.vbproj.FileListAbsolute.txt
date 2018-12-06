@@ -1,0 +1,11 @@
+c:\users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab1\bin\Debug\myProjectLab1.exe.config
+c:\users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab1\bin\Debug\myProjectLab1.exe
+c:\users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab1\bin\Debug\myProjectLab1.pdb
+c:\users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab1\bin\Debug\myProjectLab1.xml
+c:\users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab1\obj\Debug\myProjectLab1.vbprojResolveAssemblyReference.cache
+c:\users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab1\obj\Debug\myProjectLab1.Resources.resources
+c:\users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab1\obj\Debug\myProjectLab1.vbproj.GenerateResource.Cache
+c:\users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab1\obj\Debug\myProjectLab1.exe
+c:\users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab1\obj\Debug\myProjectLab1.xml
+c:\users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab1\obj\Debug\myProjectLab1.pdb
+C:\Users\omen\documents\visual studio 2017\VBเทอม2\myProjectLab1\myProjectLab1\obj\Debug\myProjectLab1.frmFirstForm.resources
